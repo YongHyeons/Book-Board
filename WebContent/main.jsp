@@ -31,16 +31,16 @@
 		</div>
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav">
-				<li class = "active"><a href="main.jsp" style="color:white;">메인</a></li>
-				<li><a href="books.jsp" style="color:white;">도서</a></li>
-				<li><a href="bbs.jsp" style="color:white;">게시판</a></li>
+				<li class = "active"><a href="main.jsp" style="color:black;">메인</a></li>
+				<li><a href="books.jsp" style="color:black;">도서</a></li>
+				<li><a href="bbs.jsp" style="color:black;">게시판</a></li>
 			</ul>
 			<%
 				if(userID == null){
 			%>
 			<ul class="nav navbar-nav navbar-right">
 				<li class="dropdown">
-					<a href="#" class="dropdown-toggle"
+					<a href="#" class="dropdown-toggle" 
 						data-toggle="dropdown" role="button" aria-haspopup="true"
 						aria-expanded="false">접속하기<span class="caret"></span></a>
 					<ul class="dropdown-menu">
@@ -72,7 +72,7 @@
 	<div class="container">
 		<div class="jumbotron">
 			<div class="container">
-				<h1>웹 사이트 소개</h1>
+				<h1>도서 관리</h1>
 				<p>도서 관리 웹 사이트에 오신 것을 환영합니다.</p>
 				<p><a class="btn btn-primary-btn-pull" href="#" role="button">자세히 알아보기</a></p>
 			</div>

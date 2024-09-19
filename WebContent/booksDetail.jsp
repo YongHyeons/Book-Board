@@ -9,6 +9,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width" initial-scale="1">
 <link rel="stylesheet" href="css/bootstrap.css">
+<link rel="stylesheet" href="css/custom.css">
 <title>JSP 도서 상세</title>
 </head>
 <body>
@@ -30,7 +31,7 @@
 		}
 		Books books = new BooksDAO().getBooks(booksID);
 	%>
-	<nav class="navbar navbar-default">
+	<nav class="navbar navbar-default" id = "hh">
 		<div class="navbar-header">
 			<button type="button" class="navbar-toggle collapsed"
 				data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"
@@ -39,13 +40,13 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>	
 			</button>
-			<a class="navbar-brand" href="main.jsp">JSP 도서 관리</a>
+			<a class="navbar-brand" href="main.jsp" style="color:white;">JSP 도서 관리</a>
 		</div>
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav">
-				<li><a href="main.jsp">메인</a></li>
-				<li class = "active"><a href="books.jsp">도서</a></li>
-				<li><a href="bbs.jsp">게시판</a></li>
+				<li><a href="main.jsp" style="color:black;">메인</a></li>
+				<li class = "active"><a href="books.jsp" style="color:black;">도서</a></li>
+				<li><a href="bbs.jsp" style="color:black;">게시판</a></li>
 			</ul>
 			<%
 				if(userID == null){
@@ -80,7 +81,8 @@
 				}
 			%>
 		</div>
-	</nav>
+	</nav><br><br><br><br>
+	<h1 align="center">도서 정보</h1>
 	<div class="container">
 		<div class ="row">
 			<table class="table table-striped" style = "text-align: center; border: 1px solid #dddddd">
