@@ -14,7 +14,7 @@
 
 #### ⭐ ERD
 
-![db_desc](https://github.com/user-attachments/assets/14dcd8ae-b76e-408a-89d2-a82b5ec4001b)
+![bbs_erd](https://github.com/user-attachments/assets/4e81dffc-1cea-4091-9c0c-14bc275eb9ab)
 
 <br><br>
 
