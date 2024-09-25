@@ -41,7 +41,8 @@
 
 ![login](https://github.com/user-attachments/assets/9aa52b19-7d71-4148-8b6b-128b5bebe5af)
 
-- 
+- 회원가입 : 아이디, 비밀번호, 이름, 성별, 이메일 입력 시 회원가입 할 수 있도록 기능 구현
+- 로그인 : 회원가입 이후 로그인 검증 및 메인 페이지로 이동
 
 <br><br>
 
@@ -49,7 +50,8 @@
 
 ![메인화면](https://github.com/user-attachments/assets/5bd9ea8b-c314-4efd-98e1-1aadb4920f73)
 
-- 
+- 사이트에서 소개하는 글과 이미지를 표시
+- 헤더에 표시한 메뉴바를 통해 페이지 이동
 
 <br><br>
 
@@ -57,7 +59,9 @@
 
 ![book_list](https://github.com/user-attachments/assets/19f35a22-e412-421c-bc3a-476cf20f0a5a)
 
-- 
+- 현재 등록되어 있는 도서 목록을 표시
+- 각 도서별 도서코드, 제목, 저자, 출판사, 가격을 표시
+- 장바구니에 담기 기능 구현
 
 <br><br>
 
@@ -65,58 +69,14 @@
 
 ![book_info](https://github.com/user-attachments/assets/f88f35bc-c4a6-469a-bca7-a14af1e0496f)
 
-- 
+- 선택된 도서에 대한 정보를 표시
+- 장바구니에 담기, 구매하기 기능 구현
 
 <br><br>
 
 #### ⭐ 도서 수정 페이지
 
-![book_update(manager_ver)](https://github.com/user-attachments/assets/fda3ba8d-739b-470e-b982-bfb82e3a97dd)
-
-- 
-
-<br><br>
-
-#### ⭐ 게시판 페이지
-
-![bbs_list](https://github.com/user-attachments/assets/aecb8922-03d4-4a68-a813-d3d7522fea80)
-
-- 
-
-<br><br>
-
-#### ⭐ 게시글 보기
-
-![bbs_info](https://github.com/user-attachments/assets/8ed805f3-7935-432a-8cbc-db1da90772e3)
-
-
-- 
-
-<br><br>
-
-#### ⭐ 게시글 보기
-
-![bbs_update](https://github.com/user-attachments/assets/46a2de64-bad8-4f09-b1d1-e92f174dce75)
-
-
-- 
-
-<br><br>
-
-#### ⭐ 구매 내역
-
-![payhistory](https://github.com/user-attachments/assets/39356cc6-9136-4e63-bb6b-3be8ca6813fc)
-
-
-- 
-
-<br><br>
-
-#### ⭐ 장바구니
-
-![basket](https://github.com/user-attachments/assets/07e6133e-236e-47fa-bf19-27457761a687)
-
--
+![book_update(manager_ver)](https://github.com/user-attachments/as현 
 
 <br><br>
 
