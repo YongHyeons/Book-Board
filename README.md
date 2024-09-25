@@ -20,44 +20,8 @@
 
 #### ⭐ Project Tree
 
-├─build
+![image](https://github.com/user-attachments/assets/abfe867c-0a47-4f86-9ab9-ed60e23ba433)
 
-│  └─classes
-
-│      ├─bbs
-
-│      ├─books
-
-│      ├─purchase
-
-│      └─user
-
-├─src
-
-│  ├─bbs
-
-│  ├─books
-
-│  ├─purchase
-
-│  └─user
-
-└─WebContent
-
-    ├─css
-    
-    ├─fonts
-    
-    ├─images
-    
-    ├─js
-    
-    ├─META-INF
-    
-    └─WEB-INF
-    
-        └─lib
-        
 <br><br>
 
 #### ⭐ Technologies Used
