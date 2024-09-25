@@ -18,6 +18,48 @@
 
 <br><br>
 
+#### ⭐ Project Tree
+
+├─build
+
+│  └─classes
+
+│      ├─bbs
+
+│      ├─books
+
+│      ├─purchase
+
+│      └─user
+
+├─src
+
+│  ├─bbs
+
+│  ├─books
+
+│  ├─purchase
+
+│  └─user
+
+└─WebContent
+
+    ├─css
+    
+    ├─fonts
+    
+    ├─images
+    
+    ├─js
+    
+    ├─META-INF
+    
+    └─WEB-INF
+    
+        └─lib
+        
+<br><br>
+
 #### ⭐ Technologies Used
 > Language
 - JAVA
