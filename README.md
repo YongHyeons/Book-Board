@@ -12,9 +12,9 @@
 
 <br><br>
 
-#### ⭐ DataBase Table Structure
+#### ⭐ ERD
 
-![db_desc](https://github.com/user-attachments/assets/ff2ab9f3-c943-405e-a95d-f03261692760)
+![db_desc](https://github.com/user-attachments/assets/14dcd8ae-b76e-408a-89d2-a82b5ec4001b)
 
 <br><br>
 
