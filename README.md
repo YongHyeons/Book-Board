@@ -82,7 +82,7 @@
 
 #### ⭐ 도서 수정 페이지
 
-![book_update(manager_ver)](https://github.com/user-attachments/as현 
+![book_update(manager_ver)](https://github.com/user-attachments/assets/453e2725-2c87-4c55-a6f5-99714767eb92)
 
 <br><br>
 
