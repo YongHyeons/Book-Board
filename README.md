@@ -12,7 +12,6 @@
 서로 의견을 나눌 수 있는 플랫폼입니다. 이 웹사이트는 도서 목록을 체계적으로 관리하며, 회원들이 원하는 책을 검색하고, 상세 정보를 확인할 수 있도록 돕습니다.
 
 <br><br>
-
 #### ⭐ ERD
 
 ![bbs_erd](https://github.com/user-attachments/assets/4e81dffc-1cea-4091-9c0c-14bc275eb9ab)
