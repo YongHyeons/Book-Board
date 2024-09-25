@@ -82,7 +82,57 @@
 
 #### ⭐ 도서 수정 페이지
 
-![book_update(manager_ver)](https://github.com/user-attachments/assets/453e2725-2c87-4c55-a6f5-99714767eb92)
+![book_update(manager_ver)](https://github.com/user-attachments/assets/fda3ba8d-739b-470e-b982-bfb82e3a97dd)
+
+- 도서 등록자 검증 이후 수정 기능 구현
+- 해당 도서에 대한 내용 수정 기능
 
 <br><br>
+
+#### ⭐ 게시판 페이지
+
+![bbs_list](https://github.com/user-attachments/assets/aecb8922-03d4-4a68-a813-d3d7522fea80)
+
+- 등록된 게시글 목록 표시
+- 각 게시글에 대한 기본 정보를 표시
+- 게시글 선택 시 상세보기 페이지로 이동
+
+<br><br>
+
+#### ⭐ 게시글 보기
+
+![bbs_info](https://github.com/user-attachments/assets/8ed805f3-7935-432a-8cbc-db1da90772e3)
+
+- 게시글 상세내용 표시
+- 게시글 작성자가 현재 로그인된 유저라면 수정 및 삭제 기능 구현
+
+<br><br>
+
+#### ⭐ 게시글 수정
+
+![bbs_update](https://github.com/user-attachments/assets/46a2de64-bad8-4f09-b1d1-e92f174dce75)
+
+- 작성자 검증 이후 게시글 내용 수정 기능 구현
+
+<br><br>
+
+#### ⭐ 구매 내역
+
+![payhistory](https://github.com/user-attachments/assets/39356cc6-9136-4e63-bb6b-3be8ca6813fc)
+
+- 로그인한 유저가 구매한 도서 리스트 표시
+- 각 도서의 기본 정보와 구매 수량, 금액, 구매일자 표시
+
+<br><br>
+
+#### ⭐ 장바구니
+
+![basket](https://github.com/user-attachments/assets/07e6133e-236e-47fa-bf19-27457761a687)
+
+- 현재 유저가 장바구니에 담은 도서 목록 표시
+- 각 도서 기본 정보를 제공
+- 장바구니 리스트에서 제거하기 위한 취소 기능 구현
+
+<br><br>
+
 
